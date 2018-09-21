@@ -1,0 +1,11 @@
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\bin\Debug\netcoreapp2.1\espiral-SofiBerumen.deps.json
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\bin\Debug\netcoreapp2.1\espiral-SofiBerumen.runtimeconfig.json
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\bin\Debug\netcoreapp2.1\espiral-SofiBerumen.runtimeconfig.dev.json
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\bin\Debug\netcoreapp2.1\espiral-SofiBerumen.dll
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\bin\Debug\netcoreapp2.1\espiral-SofiBerumen.pdb
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\obj\Debug\netcoreapp2.1\espiral-SofiBerumen.csprojAssemblyReference.cache
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\obj\Debug\netcoreapp2.1\espiral-SofiBerumen.csproj.CoreCompileInputs.cache
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\obj\Debug\netcoreapp2.1\espiral-SofiBerumen.AssemblyInfoInputs.cache
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\obj\Debug\netcoreapp2.1\espiral-SofiBerumen.AssemblyInfo.cs
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\obj\Debug\netcoreapp2.1\espiral-SofiBerumen.dll
+C:\Users\Residentes\CursoNET\espiral-SofiBerumen\obj\Debug\netcoreapp2.1\espiral-SofiBerumen.pdb
